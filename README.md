@@ -1,7 +1,7 @@
 # Trybe Exercicios
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Marcos Gomes, enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-- Introdução
+- Fundamentos
 - Front-End
 - Back-End 
 - Ciência da Computação
