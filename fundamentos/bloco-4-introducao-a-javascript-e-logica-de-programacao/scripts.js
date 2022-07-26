@@ -1,11 +1,9 @@
-const a = 13;
-const b = 7;
-const c = 15;
+const number = -2;
 
-if (a > b && a > c) {
-    console.log('O número maior é: ' + a + '(a)')
-} else if (b > a && b > c) {
-    console.log('O número maior é: ' + b + '(b)')
+if(number > 0) {
+    console.log('positive')
+} else if(number < 0) {
+    console.log('negative')
 } else {
-    console.log('O número maior é: ' + c + '(c)')
+    console.log('zero')
 }
